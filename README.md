@@ -34,6 +34,7 @@ This Python GUI application allows users to quickly merge multiple PDF files int
 3. **Install the required packages:**
     ```bash
     pip install -r requirements.txt
+    sudo apt-get install python3-tk
     ```
 
 ## Usage
