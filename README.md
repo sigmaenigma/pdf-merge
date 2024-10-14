@@ -2,6 +2,8 @@
 
 This Python GUI application allows users to quickly merge multiple PDF files into a single PDF. The application is built using PySimpleGUI for the graphical interface and PyPDF2 for handling PDF merging.
 
+![image](https://github.com/user-attachments/assets/d39c346f-bae3-4453-b67f-7760260314cc)
+
 ## Features
 
 - Select multiple PDF files to merge.
