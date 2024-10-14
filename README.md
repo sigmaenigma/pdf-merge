@@ -19,7 +19,7 @@ This Python GUI application allows users to quickly merge multiple PDF files int
 
 1. **Clone the repository:**
     ```bash
-    git clone <repository_url>
+    git clone https://github.com/sigmaenigma/pdf-merge.git
     cd pdf-merger
     ```
 
